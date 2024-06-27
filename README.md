@@ -1,4 +1,4 @@
-# Woofstagram,
+# Woofstagram
 
 Página inicial da rede social fictícia de pets.
 
